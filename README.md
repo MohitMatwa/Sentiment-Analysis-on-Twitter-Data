@@ -1,4 +1,4 @@
-# Tweet Sentiment Analysis
+# Sentiment Analysis on Twitter Data
 
 ## Overview
 This repository contains a project focused on performing sentiment analysis on tweets. The goal is to classify tweets into positive, negative, or neutral categories using machine learning models.
